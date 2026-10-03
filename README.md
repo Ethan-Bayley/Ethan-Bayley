@@ -44,12 +44,12 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ethan-Bayley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Bayley&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ethan-Bayley&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Let's talk
@@ -57,5 +57,5 @@
 Always keen to chat about robotics, localisation, programming or CAD. Open an issue or reach out through my pinned repos.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=d62828&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ethan-Bayley&label=Profile%20views&color=d62828&style=flat" />
 </p>
